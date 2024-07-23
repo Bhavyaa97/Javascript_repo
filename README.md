@@ -2,4 +2,4 @@
 
 A code repo of Javascript with chai and code
 adding new feature in it
-add button
+add button in the same line to see conflict merge
